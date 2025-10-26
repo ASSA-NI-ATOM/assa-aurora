@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "A Memory-Optimal GPU Sieve for Narrow Quadratic Intervals"
+authors:
+  - family-names: "Tabalevich"
+    given-names: "Siarhei"
+    # orcid: https://orcid.org/0009-0007-4425-9443 # <-- Добавьте ваш ORCID, если есть
+  - family-names: "Aleksandrov"
+    given-names: "Siarhei"
+	repository-code: "https://github.com/ASSA-NI-ATOM/assa-aurora"
+license: BSD-3-Clause
+version: 1.0.0
+date-released: "2025-10-26"
+
